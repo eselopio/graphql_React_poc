@@ -1,2 +1,5 @@
-# Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+# Cards-graphql-react
+Starter poc project 
+
+
+
